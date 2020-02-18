@@ -66,6 +66,8 @@ For the sake of brevity we also summarised them in the following table.
 
 [...] (extend SoA)
 
+\pagebreak
+
 |                 | Aim                                                                                                                                                                   | Size                                                          | Handicaps             | Assets              | Coverage  |
 |---------------  |---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-------------------------------------------------------------  |---------------------- |-------------------  |:--------: |
 | BioKB           | Helps researchers easily access semantic content of thousands of abstracts and full text articles.                                                                    | 24M abstracts, 5.3 full text articles                         |                       | SparQL endpoint     |           |
