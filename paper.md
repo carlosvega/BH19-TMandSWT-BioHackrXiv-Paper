@@ -1,40 +1,47 @@
 ---
-title: 'Logic Programming Working Group'
+title: 'Text-mining and semantic web technologies'
 tags:
-  - logic programming
+  - text mining
+  - semantic web technologies
+  - systems biomedicine
+  - biocuration
 authors:
-  - name: Chris Mungall
-    orcid: 0000-0002-8021-9162
+  - name: Venkata Satagopam
+    orcid: 0000-0002-6532-5880
     affiliation: 1
-  - name: Hirokazu Chiba
+  - name: Carlos Vega
+    orcid: 0000-0002-7979-9921)
+    affiliation: 1
+  - name: Valentin Grouès 
+    orcid: 0000-0001-6501-0806
+    affiliation: 1
+  - name: Lars Juhl Jensen
+    orcid: 0000-0001-7885-715X
     affiliation: 2
-  - name: Shuichi Kawashima
-    affiliation: 2
-  - name: Yasunori Yamamoto
-    affiliation: 2
-  - name: Pjotr Prins
-    orcid: 0000-0002-8021-9162
+  - name: Johanna McEntyre
+    orcid: 0000-0002-1611-6935
     affiliation: 3
-  - name: Nada Amin
+  - name: Aravind Venkatesan
+    orcid: 0000-0003-4019-1940
+    affiliation: 3
+  - name: Margarita Kopniczky
+    orcid: 0000-0002-4792-1355
     affiliation: 4
-  - name: Deepak Unni
+  - name: Gurnoor Singh 
+    orcid: 0000-0003-1615-4197
     affiliation: 5
-  - name: William E. Byrd
-    affiliation: 6
 affiliations:
-  - name: Molecular Ecosystems Biology, Berkeley Lab, USA
+  - name: Luxembourg Centre for Systems Biology, University of Luxembourg, Luxembourg
     index: 1
-  - name: Database Center for Life Science, Research Organization of Information and Systems, Japan
+  - name: Novo Nordisk Foundation for Protein Research, Faculty of Health Sciences, University of Copenhagen, Copenhagen, Denmark
     index: 2
-  - name: Department of Genetics, Genomics and Informatics, The University of Tennessee Health Science Center, Memphis, TN, USA.
+  - name: European Molecular Biology Laboratory (EMBL-EBI), European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, CB10 1SD, UK
     index: 3
-  - name: Harvard University, USA
+  - name: Google, UK
     index: 4
-  - name: Berkeley Lab, USA
+  - name: Radboud University Medical Center, Nijmegen, Netherlands
     index: 5
-  - name: University of Alabama at Birmingham, USA
-    index: 6
-date: 2 February 2020
+date: 12 February 2020
 bibliography: paper.bib
 ---
 
