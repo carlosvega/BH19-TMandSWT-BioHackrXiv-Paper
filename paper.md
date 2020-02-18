@@ -10,7 +10,7 @@ authors:
     orcid: 0000-0002-6532-5880
     affiliation: 1
   - name: Carlos Vega
-    orcid: 0000-0002-7979-9921)
+    orcid: 0000-0002-7979-9921
     affiliation: 1
   - name: Valentin Grouès 
     orcid: 0000-0001-6501-0806
